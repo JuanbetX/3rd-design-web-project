@@ -16,4 +16,4 @@ Breve sitio temático para el proyecto final del curso de Diseño Web. Incluye t
 - `video/` (trailer opcional)
 
 ## Enlace al sitio
-- Publicado en GitHub Pages: https://tu-usuario.github.io/tu-repo
+- Publicado en GitHub Pages:[ https://tu-usuario.github.io/tu-repo](https://juanbetx.github.io/3rd-design-web-project/)
